@@ -33,9 +33,9 @@ draft: false
 <li>If you are interested in providing us a venue, or sponsoring us, feel free to contact us via contacts listed below.</li>
 </ul>
 
-<h1 class="title">Contact<br><span class="bottom-border-r"></h1>
+<h1 class="title">Contacts<br><span class="bottom-border-r"></h1>
 <ul>
-<li>Contact: <a href="https://goo.gl/forms/sVJ0bjtzMpuArqvf2" target="_blank">https://goo.gl/forms/sVJ0bjtzMpuArqvf2</a></li>
+<li>Form: <a href="https://goo.gl/forms/sVJ0bjtzMpuArqvf2" target="_blank">https://goo.gl/forms/sVJ0bjtzMpuArqvf2</a></li>
 <li>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
 </ul>
 </div>
