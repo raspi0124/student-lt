@@ -6,7 +6,7 @@ draft: false
 <div class="top-red" id="about">
 <h1 class="title">About "#StudentLT"<br><span class="bottom-border-w"></span></h1>
 <ul>
-<li>"#StudentLT" is community held by students for students.</li>
+<li>"#StudentLT" is a community held by students for students.</li>
 </ul>
 </div>
 <div class="top-white">
@@ -20,8 +20,8 @@ draft: false
 <div class="top-red">
 <h1 class="title">"#StudentLT"'s missions & goals<br><span class="bottom-border-w"></h1>
 <div class="row">
-<div class="col-md-4 goal-li"><i class="glyphicon glyphicon-comment icon fa-4x"></i><br>Creating place where people can freely talk about techs.</div>
-<div class="col-md-4 goal-li"><i class="glyphicon glyphicon-map-marker icon fa-4x"></i><br>Expanding student engeneer's network</div>
+<div class="col-md-4 goal-li"><i class="glyphicon glyphicon-comment icon fa-4x"></i><br>Creating a place where people can freely talk about techs.</div>
+<div class="col-md-4 goal-li"><i class="glyphicon glyphicon-map-marker icon fa-4x"></i><br>Expanding student engineer's network</div>
 <div class="col-md-4 goal-li"><i class="glyphicon glyphicon-resize-small icon fa-4x"></i><br>Connecting student engineers in Japan</div>
 </div>
 </div>
@@ -30,7 +30,7 @@ draft: false
 <ul>
 <li>We are looking for companies that may provide us a venue for these LT events.</li>
 <li>The company that provided us a venue will be advertised during the event.</li>
-<li>If you are interested in providing us a venue, or sponsoring us, feel free to contact us via contacts listed below.</li>
+<li>If you are interested in providing us a venue or sponsoring us, feel free to contact us via contacts listed below.</li>
 </ul>
 
 <h1 class="title">Contacts<br><span class="bottom-border-r"></h1>
